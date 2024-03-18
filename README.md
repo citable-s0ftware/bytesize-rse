@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # Byte-sized RSE
 
 Demonstrating the Citation File Format integration with GitHub and Zenodo at **Byte-sized RSE S2 E5**.
